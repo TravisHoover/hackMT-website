@@ -292,7 +292,8 @@ a img{
   .android-slogan {
     font-size: 26px;
     margin: 0 16px;
-    padding-top: 20px;
+    padding-top: 75px;
+    padding-right: 10px;
   }
 
   .android-sub-slogan {
